@@ -1,2 +1,2 @@
 # Hi, welcome to my GitHub account! 
-## Hope yu find something useful here!
+**Hope you find something useful here!**
