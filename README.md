@@ -6,4 +6,4 @@ I also do a little static web developments. </br>
 Check out a website I'm working on! 👇</br>
 https://kitrinos78.github.io/jaronchai-portfolio
 </br></br>
-Migrated from an old account @djaronchai
+( Migrated from an old account @djaronchai )
