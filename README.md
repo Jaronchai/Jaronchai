@@ -6,8 +6,8 @@
 I usually use utility python to do all my stuff, and occasionally do things in MATLAB and VHDL too. 
 I also do a little static web developments.
 
-- test 1 
-- test 2
-
 <img src='https://github.com/jarondlk/jarondlk/blob/4b69b80e2984997dd67915d92a0872232256a695/Untitled_Artwork%204.PNG' align='right' width='30%'>
 </p>
+
+- test 1 
+- test 2
