@@ -1,6 +1,6 @@
 # Hi there!! Welcome to my GitHub! 
 
-<img src='https://github.com/jarondlk/jarondlk/blob/4b69b80e2984997dd67915d92a0872232256a695/Untitled_Artwork%204.PNG' align='right' width='30%'>
+<img src='https://github.com/jarondlk/jarondlk/blob/main/me.png' align='right' width='30%'>
 
 **🐕 Hope you'll find something useful here! ⚡️**
 
