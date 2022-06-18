@@ -12,6 +12,5 @@ I usually use utility python to do all my stuff, and occasionally do things in M
 - Mathematics and Engineering
 - Web Development
 
-Also, check out [my site](https://www.jaronchai.com) for more!
-
+Also, check out [my site](https://www.jaronchai.com) for more!  
 Have an awesome day!! 🌟
