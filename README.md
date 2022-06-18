@@ -6,9 +6,10 @@
 
 Currently studying, solving problems and learning the world. If you need some help on early level engineering homework, calculus, programming or mechanics, then poke me, I'm all ears.
 
-
 I usually use utility python to do all my stuff, and occasionally do things in MATLAB and VHDL too. I also do a little static web developments. Things that I do often are:
 
 - Machine Learning and Data Analytics
 - Mathematics and Engineering
 - Web Development
+
+🌟 Have an awesome day!! 🌟
