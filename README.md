@@ -1,8 +1,6 @@
 # Hi there!! Welcome to my GitHub! 
 
-<!---
-<img src='https://github.com/jarondlk/jarondlk/blob/main/me.png' align='right' width='30%'>
--->
+<img src='https://github.com/jarondlk/jarondlk/blob/main/alfyn_hadoop.png' align='right' width='30%'>
 
 Welcome to my GitHub profile! I love to code, solve problems, and make friends! 🐶
 
