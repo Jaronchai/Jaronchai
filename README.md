@@ -4,14 +4,15 @@
 <img src='https://github.com/jarondlk/jarondlk/blob/main/me.png' align='right' width='30%'>
 -->
 
-**🐕 Hope you'll find something useful here! ⚡️**
+Welcome to my GitHub profile! I love to code, solve problems, and make friends! 🐶
 
-Currently studying, solving problems and learning the world. If you need some help on early level engineering homework, calculus, programming or mechanics, then poke me, I'm all ears.
+My skills include machine learning, data analytics, mathematics, engineering, and web development. I'm always eager to learn and explore new technologies, so I'm constantly working on new projects and experimenting with different tools and languages.
 
-I usually use utility python to do all my stuff, and occasionally do things in MATLAB and VHDL too. I also do a little static web developments. Things that I do often are:
+If you need help with anything related to early-level engineering homework, calculus, programming, or mechanics, just bark at me! I'm always happy to lend a paw and share my knowledge.
 
-- Machine Learning and Data Analytics
-- Mathematics and Engineering
-- Web Development
+My favorite language to work with is Python, but I also have experience with R and MATLAB for various engineering applications. I also love to dabble in static web development and create paw-some websites.
 
-Also, check out [my site](https://www.jaronchai.com) for more, and have an awesome day!! 🌟
+Check out my GitHub repositories to see what I've been up to, and feel free to paw me a message if you want to chat or collaborate on a project. Let's create together! 🐾🐾🐾
+
+Also, check out [my site](https://www.jaronchai.com) for more info and my blog!!
+Thank you for stopping by, and have a pawsome day! 🌟
