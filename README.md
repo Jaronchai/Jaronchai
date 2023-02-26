@@ -10,7 +10,7 @@ If you need help with anything related to early-level engineering homework, calc
 
 My favorite language to work with is Python, but I also have experience with R and MATLAB for various engineering applications. I also love to dabble in static web development and create fun websites.
 
-Check out my GitHub repositories to see what I've been up to, and feel free to paw me a message if you want to chat or collaborate on a project. Let's create together! 🐾🐾🐾
+Check out my GitHub repositories to see what I've been up to, and feel free to send me a message if you want to chat or collaborate on a project. Let's create together! 🐾🐾🐾
 
 Also, check out [my site](https://www.jaronchai.com) for more info and my blog!!
 Thank you for stopping by, and have a pawsome day! 🌟
