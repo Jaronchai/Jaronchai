@@ -2,11 +2,11 @@
 
 <img src='https://github.com/jarondlk/jarondlk/blob/main/alfyn_hadoop.png' align='right' width='30%'>
 
-Welcome to my GitHub profile! I love to code, solve problems, and make friends! 🐶
+Welcome to my GitHub profile! I enjoy coding and solving problems! 🐶
 
-My skills include big data, machine learning, data analytics, mathematics, engineering, and web development. I'm always eager to learn and explore new technologies, so I'm constantly working on new projects and experimenting with different tools and languages.
+My skills include big data, machine learning, data analytics, mathematics, engineering. I'm always eager to learn and explore new technologies, so I'm constantly working on new projects and experimenting with different tools and languages.
 
-If you need help with anything related to early-level engineering homework, calculus, programming, or mechanics, just bark at me! I'm always happy to lend a paw and share my knowledge.
+If you need help with anything related to early-level engineering homework, calculus, programming, or mechanics, just bark at me! I'm always happy to lend a hand.
 
 My favorite language to work with is Python, but I also have experience with R and MATLAB for various engineering applications. I also love to dabble in static web development and create fun websites.
 
